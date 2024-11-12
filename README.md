@@ -1,1 +1,1 @@
-Hi! this is the Mango Dynamics repository for anything that you want change and help! Some of these repositorys are ones you can't edit. Because these are important repositorys that we need for some projects. But, you can give bug reports and anything else.
+Hi! this is the Mango Dynamics repository for anything that you want change and help! Some of these repositorys are ones you can't edit. Because, these are important repositorys that we need for some projects. But, you can give bug reports and anything else.
